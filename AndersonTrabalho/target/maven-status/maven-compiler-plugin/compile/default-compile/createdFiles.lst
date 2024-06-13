@@ -1,0 +1,15 @@
+unipar\br\repositories\PelagemRepository.class
+unipar\br\services\CorService.class
+unipar\br\main\Main.class
+unipar\br\services\CachorroService.class
+unipar\br\services\RacaService.class
+unipar\br\exeptions\NegocioException.class
+unipar\br\services\PelagemService.class
+unipar\br\infrestructure\ConnectionFactory.class
+unipar\br\domain\Cachorro.class
+unipar\br\domain\Raca.class
+unipar\br\repositories\RacaRepository.class
+unipar\br\repositories\CachorroRepository.class
+unipar\br\domain\Pelagem.class
+unipar\br\domain\Cor.class
+unipar\br\repositories\CorRepository.class
